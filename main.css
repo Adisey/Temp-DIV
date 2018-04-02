@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 1px black dotted;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#main {
+    height: 300px;
+    width: 80%;
+    margin: 0 10%;
+    border: dashed;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+#screen {
+    background-color: dimgrey;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+#buttonBarCenter {
+    Align-self: center;
+    width: 100%;
+}
+#controlBar {
+    background: azure;
+    display: flex;
+}
+
+#buttonBar {
+    background-color: beige;
+    width: 150px;
+}
+
+#infoBar {
+    width: 100%;
+    background-color: blueviolet;
+}
+
+#countFile {
+    background-color: red;
+}
+
+#fileInfo {
+    background-color: whitesmoke;
+}
+
