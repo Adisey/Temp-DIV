@@ -26,11 +26,6 @@ h1 {
     background-color: dimgrey;
     height: 345px;
 }
-#imgDiv {
-    justify-content: center;
-    align-items: center;
-
-}
 
 img {
     max-height: 100%;
